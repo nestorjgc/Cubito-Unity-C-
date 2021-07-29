@@ -7,4 +7,4 @@
 ![](Pictures/Sample2.PNG)
 ![](Pictures/Sample1.PNG)
 
-<p> <b>Nestor Garcia.</b></p>
+<p> <b>Nestor Garcia</b></p>
