@@ -9,6 +9,10 @@ Very simple program to play. The cube moves forward and the player must avoid ob
 
 ## Live Demo: 
 
+## Features:
+  - User can enjoy 3 levels.
+  - After the 1st level it gets really difficult.
+  - 3rd level is almost impossible.
 
 ## Preview
 ![Alt Text](https://github.com/nestorjgc/Cubito-Unity-Game/blob/main/Pictures/gif123.gif)
