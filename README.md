@@ -1,9 +1,33 @@
-# Cubito-Unity-Game
+# To-Do-List
 
-<h2>This project was made in Unity in 2020 using C# and physics and math were a big part of this project.</h2>
-<p>It's a very simple program to play. The cube moves forward and the player must avoid obstacles in order to win the game. The game is made with 3 levels that the user can enjoy.</p>
+## Introduction
 
-![](Pictures/Sample2.PNG)
-![](Pictures/Sample1.PNG)
+Very simple program to play. The cube moves forward and the player must avoid obstacles in order to win the game. The game is made with 3 levels that users can play.
+## Technologies Used
+- C#
+- Unity
 
-<p> <b>Nestor Garcia.</b></p>
+## Live Demo: 
+
+## Preview
+
+![Alt Text](https://github.com/nestorjgc/Cubito-Unity-Game/blob/main/Pictures/Gif-maker.gif)
+
+## Development
+### System Requirements
+- NPM 6 or higher
+### Getting Started
+1. Clone the repository.  <br/>
+
+        
+2. Install all dependencies with NPM. <br/>
+
+        npm install
+        
+3. Import the example database to MySQL. <br/>
+
+        npm run db:import
+        
+4. Start the project. Once started you can view the application by opening http://localhost:3000 in your browser. <br/>
+
+        npm run dev
