@@ -17,4 +17,6 @@ Very simple program to play. The cube moves forward and the player must avoid ob
 ## Preview
 ![Alt Text](https://github.com/nestorjgc/Cubito-Unity-Game/blob/main/Pictures/gif123.gif)
 
+## Nestor Garcia
+
 
